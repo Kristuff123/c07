@@ -6,7 +6,7 @@
 /*   By: kristof <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/02/05 09:16:08 by kristof           #+#    #+#             */
-/*   Updated: 2024/02/05 09:40:37 by kristof          ###   ########.fr       */
+/*   Updated: 2024/02/05 20:47:23 by kristof          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,7 +30,7 @@ int		*ft_range(int min, int max)
 		}
 		return (array);
 }
-/*
+
 int		main(int argc, char *argv[])
 {
 		if (argc != 3)
@@ -49,4 +49,4 @@ int		main(int argc, char *argv[])
 		}
 		printf("\n");
 		return(0);
-}*/
+}
